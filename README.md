@@ -27,5 +27,3 @@ A collection of data science and ML projects from my BSc in Information Technolo
 ---
 **Author:** Mbuso B. Zulu | BSc IT, Richfield Graduate Institute of Technology
 ```
-
-One repo left — do you have Java projects to send, or shall we move on to rewriting your CV?
